@@ -1,4 +1,5 @@
 .head {
+    background-color: #00161C;
     color: #FFFFFF;
     width: 100%;
     box-sizing: border-box;
@@ -23,6 +24,6 @@
     font-size: 1.1rem;
     display: inline-block;
     margin-right: .7rem;
-    margin-bottom: 1.25rem;
+    margin-bottom: .7rem;
     margin-left: .7rem;
 }
