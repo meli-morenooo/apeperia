@@ -2,10 +2,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: var(--background-blanco);
+    color: #FFFFFF; /*Cambio de colores*/
+
     text-align: center;
-    background-color: var(--background-llamada-mobile);
-    /* padding-top: 12.25rem; */
+    background-color: #00161C; /* Cambio de colores*/
+
+    padding-top: 12.25rem; /* Cometario la ubicacion del texto */
     padding-bottom: 2.5rem;
 }
 
